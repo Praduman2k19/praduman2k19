@@ -1,4 +1,4 @@
-#### 💫 About Me:
+### 💫 About Me:
 - 🔭 I’m currently working on FullStack Projects in MEAN Firebase
 - 👯 I’m looking to collaborate on Golang and MEAN
 - 🤝 I’m looking for help with React
